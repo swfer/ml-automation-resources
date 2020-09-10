@@ -1,4 +1,4 @@
-# Recursos asociados al proyecto de automatización del proceso entrenamiento de aprendizaje automático
+# Recursos asociados al proyecto de automatización del proceso de entrenamiento en aprendizaje automático
 
 El presente repositorio contiene los cuadernos de Jupyter, funciones y datos mencionados en el proyecto de automatización del proceso entrenamiento de aprendizaje automático presentado como Trabajo Fin de Máster de Ciencia de Datos.
 
